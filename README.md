@@ -63,13 +63,7 @@ _Don Bosco Institute of Technology, Bangalore_
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArvindNataraj06&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
----
 
-## 🐍 GitHub Contribution Snake  
-
-![snake gif](https://github.com/ArvindNataraj06/ArvindNataraj06/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 Connect With Me  
 
