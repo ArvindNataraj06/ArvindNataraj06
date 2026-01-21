@@ -71,7 +71,7 @@ _Don Bosco Institute of Technology, Bangalore_
 |-----------|------|
 | 💻 **GitHub** | [github.com/ArvindNataraj06](https://github.com/ArvindNataraj06) |
 | 🔗 **LinkedIn** | [linkedin.com/in/arvind-nataraj-3b4b72320](https://www.linkedin.com/in/arvind-nataraj-3b4b72320/) |
-| 🌍 **Portfolio** | [arvindnataraj06.github.io/portfolio](https://arvindnataraj06.github.io/portfolio/) |
+| 🌍 **Portfolio** | https://arvindnataraj.de/ |
 | ✉️ **Email** | [arvindaru6287@gmail.com](mailto:arvindaru6287@gmail.com) |
 
 ---
