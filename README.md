@@ -56,8 +56,8 @@ Worked on AI-driven web applications in a collaborative Agile environment, contr
 |-----------|------|
 | 💻 **GitHub** | [github.com/ArvindNataraj06](https://github.com/ArvindNataraj06) |
 | 🔗 **LinkedIn** | [linkedin.com/in/arvind-nataraj-3b4b72320](https://www.linkedin.com/in/arvind-nataraj-3b4b72320/) |
-| 🌍 **Portfolio** | https://arvindnataraj.de/ |
-| ✉️ **Email** | [arvindaru6287@gmail.com](mailto:arvind061201@gmail.com) |
+| 🌍 **Portfolio** | https://arvind-nataraj.vercel.app/ |
+| ✉️ **Email** | [arvind061201@gmail.com](mailto:arvind061201@gmail.com) |
 
 ---
 
